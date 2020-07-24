@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  gdriveClientId: "159314239260-r4q2n8u8chvss25eh6920hti6ud03vjs.apps.googleusercontent.com",
+  clientSecret: "v4BKwc4U7eLl5PT7lq53eBXT"
 };
 
 /*

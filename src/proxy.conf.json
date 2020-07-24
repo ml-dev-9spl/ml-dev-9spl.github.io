@@ -1,0 +1,7 @@
+{
+    "*": {
+        "target": "https://gofile.io",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
