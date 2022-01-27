@@ -23,7 +23,7 @@
     "ng-gapi": "0.0.93",
     "orbit-controls-es6": "^2.0.1",
     "rxjs": "~6.5.5",
-    "three": "^0.118.3",
+    "three": "^0.137.0",
     "three-orbit-controls": "^82.1.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
